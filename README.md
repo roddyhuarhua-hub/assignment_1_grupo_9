@@ -9,10 +9,10 @@ el flujo de trabajo colaborativo en GitHub (issues, commits y push).
 
 | Nombre | Usuario de GitHub |
 | --- | --- |
-| Roddy Huarhua Rojas | [@roddyhuarhua-hub](https://github.com/roddyhuarhua-hub) |
-| _(completar)_ | _(completar)_ |
-| _(completar)_ | _(completar)_ |
-| _(completar)_ | _(completar)_ |
+| Victor Eduardo Roman Lazarte | _(completar)_ |
+| Amanda Valery Gomez Flores | [@av-gomez](https://github.com/av-gomez) |
+| Roddy Edison Huarhua Rojas | [@roddyhuarhua-hub](https://github.com/roddyhuarhua-hub) |
+| Jhanela Luz Carhuaz Fuster | [@Jhane080](https://github.com/Jhane080) |
 
 ## Estructura del repositorio
 
@@ -37,16 +37,30 @@ assignment_1_grupo_9/
 
 ## Organización del trabajo
 
-Cada parte de la tarea se coordina mediante un issue en este repositorio.
-Los issues se usan para repartir responsabilidades y dejar constancia de los
-avances; cada uno se cierra cuando su notebook queda terminado y subido.
+El trabajo es **responsabilidad compartida de los cuatro integrantes**. Cada
+parte tiene un issue que se usa como espacio de coordinación: ahí se avisa
+quién está trabajando en qué, se resuelven dudas y se deja constancia de las
+revisiones. Todos revisamos todas las partes antes de cerrar su issue.
 
-| Issue | Parte | Notebook | Responsable |
-| --- | --- | --- | --- |
-| #1 | Lists | `lists.ipynb` | _(por asignar)_ |
-| #2 | Tuples | `tuples.ipynb` | _(completar)_ |
-| #3 | Dictionaries | `dictionaries.ipynb` | _(por asignar)_ |
-| #4 | NumPy | `numpy.ipynb` | _(por asignar)_ |
+| Issue | Parte | Notebook |
+| --- | --- | --- |
+| #1 | Lists | `lists.ipynb` |
+| #2 | Tuples | `tuples.ipynb` |
+| #3 | Dictionaries | `dictionaries.ipynb` |
+| #4 | NumPy | `numpy.ipynb` |
+
+### Criterios acordados
+
+Para que los cuatro notebooks queden homogéneos:
+
+- Cada notebook abre con un encabezado markdown que identifica al Grupo 9.
+- Cada ejercicio del enunciado va precedido de una celda markdown que explica
+  qué se pide y qué hace el código.
+- El código usa f-strings y guarda en variables los valores que se reutilizan,
+  en lugar de recalcularlos en cada `print`.
+- Cada notebook cierra con una conclusión breve.
+- Antes de cerrar un issue, el notebook debe ejecutarse de principio a fin sin
+  errores y con las salidas guardadas.
 
 ## Cómo ejecutar los notebooks
 
@@ -63,5 +77,3 @@ jupyter notebook
 ```
 
 También pueden abrirse directamente en VS Code con la extensión de Jupyter.
-Cada notebook debe ejecutarse de principio a fin sin errores antes de cerrar
-su issue correspondiente.
