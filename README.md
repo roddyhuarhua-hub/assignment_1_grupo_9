@@ -52,13 +52,12 @@ revisiones. Todos revisamos todas las partes antes de cerrar su issue.
 
 ### Criterios acordados
 
-Para que los cuatro notebooks queden homogéneos:
-
 - Cada notebook abre identificando al Grupo 9.
-- Cada ejercicio va precedido de una celda markdown breve: qué se pide y, solo
-  si aporta algo, una nota sobre el código.
-- Para mostrar un único valor se escribe la expresión suelta; `print()` se usa
-  únicamente cuando hay varios valores en la misma celda.
+- **Debajo de cada bloque de código va una celda de texto** que explica qué hace
+  y por qué se eligió ese camino. Es requisito del curso: bloque sin explicación,
+  o explicación que no corresponde al código, vale cero.
+- Para mostrar un único valor se escribe la expresión suelta; `print()` solo
+  cuando hay varios valores en la misma celda.
 - Antes de cerrar un issue, el notebook debe ejecutarse de principio a fin sin
   errores y con las salidas guardadas.
 
