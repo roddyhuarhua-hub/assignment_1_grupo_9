@@ -19,11 +19,12 @@ el flujo de trabajo colaborativo en GitHub (issues, commits y push).
 ```
 assignment_1_grupo_9/
 │
-├── lists.ipynb          # Parte 1 – Listas
-├── tuples.ipynb         # Parte 2 – Tuplas
-├── dictionaries.ipynb   # Parte 3 – Diccionarios
-├── numpy.ipynb          # Parte 4 – NumPy
-└── README.md
+├── README.md
+└── assignment_1/
+    ├── lists.ipynb          # Parte 1 – Listas
+    ├── tuples.ipynb         # Parte 2 – Tuplas
+    ├── dictionaries.ipynb   # Parte 3 – Diccionarios
+    └── numpy.ipynb          # Parte 4 – NumPy
 ```
 
 ## Contenido de cada notebook
@@ -69,7 +70,7 @@ Se requiere Python 3 y las siguientes librerías:
 pip install numpy jupyter
 ```
 
-Luego, desde la carpeta del repositorio:
+Luego, desde la carpeta `assignment_1/`:
 
 ```bash
 jupyter notebook
