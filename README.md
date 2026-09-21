@@ -9,7 +9,7 @@ el flujo de trabajo colaborativo en GitHub (issues, commits y push).
 
 | Nombre | Usuario de GitHub |
 | --- | --- |
-| Victor Eduardo Roman Lazarte | _(completar)_ |
+| Victor Eduardo Roman Lazarte | [@victorroman1998](https://github.com/victorroman1998) |
 | Amanda Valery Gomez Flores | [@av-gomez](https://github.com/av-gomez) |
 | Roddy Edison Huarhua Rojas | [@roddyhuarhua-hub](https://github.com/roddyhuarhua-hub) |
 | Jhanela Luz Carhuaz Fuster | [@Jhane080](https://github.com/Jhane080) |
