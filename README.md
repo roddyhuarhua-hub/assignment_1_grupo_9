@@ -45,7 +45,7 @@ avances; cada uno se cierra cuando su notebook queda terminado y subido.
 | --- | --- | --- | --- |
 | #1 | Lists | `lists.ipynb` | _(por asignar)_ |
 | #2 | Tuples | `tuples.ipynb` | _(completar)_ |
-| #3 | Dictionaries | `dictionaries.ipynb` | _(completar)_ |
+| #3 | Dictionaries | `dictionaries.ipynb` | _(por asignar)_ |
 | #4 | NumPy | `numpy.ipynb` | _(por asignar)_ |
 
 ## Cómo ejecutar los notebooks
